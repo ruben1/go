@@ -1,6 +1,8 @@
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
 
-Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](http://www.google.com/recaptcha/mailhide/d?k=01KgESkAshOFOWRMyGkcdCEQ==&c=Cmjc2-OpRImyczz0qZ2fupPU5hPh_xmcRLiawYbBE8s=)
+Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs)
+
+Email me at [github@clarecorthell.com](mailto:github@clarecorthell.com)
 
 ## The Open-Source Data Science Masters
 
@@ -130,7 +132,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
 
 * **Analysis**
- * Python for Data Analysis [Paper Book ```$24```](http://amzn.to/Q2pI5I)
+ * Python for Data Analysis [Book ```$24```](http://amzn.to/Q2pI5I)
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
 
@@ -164,6 +166,10 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 
 #### **Python** (Libraries)
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
+
+[Command Line Install Script](https://github.com/fonnesbeck/ScipySuperpack) for Scientific Python Packages
+
+ * [Pandas Cookbook](https://github.com/jvns/pandas-cookbook) (data structure library)
 
 _More Libraries can be found in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
